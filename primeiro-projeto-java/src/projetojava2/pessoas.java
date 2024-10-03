@@ -14,7 +14,6 @@ public class pessoas {
 	
 	private Data dataCadastro;
 	
-	private String nome;
 		
 	public Date getDataNascimento() {
 		return dataNascimento;

@@ -12,8 +12,10 @@ public class pessoas {
 	
 	private Date dataNascimento;
 	
-	private Data dataCadastro
+	private Data dataCadastro;
 	
+	private String nome;
+		
 	public Date getDataNascimento() {
 		return dataNascimento;
 	}

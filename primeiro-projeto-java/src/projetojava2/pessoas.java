@@ -1,5 +1,7 @@
 package projetojava2;
 
+import java.util.Date;
+
 public class pessoas {
 	
 	private String nome;
@@ -7,8 +9,6 @@ public class pessoas {
 	private String sobrenome;
 	
 	private int idade;
-	
-	
 	
 	public int getIdade() {
 		return idade;
